@@ -49,8 +49,8 @@ Thumbs.db
 *.tar
 *.tar.gz
 
-# Model checkpoints (too large)
-wildfire_detector_*.pth
+# Model checkpoints - uncomment if you want to exclude them (they're large!)
+# wildfire_detector_*.pth
 
 # Logs
 *.log
