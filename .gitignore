@@ -24,7 +24,7 @@ wheels/
 *.egg
 
 # PyTorch
-*.pth
+# *.pth  # Using Git LFS for .pth files
 *.pt
 *.ckpt
 *.pkl
