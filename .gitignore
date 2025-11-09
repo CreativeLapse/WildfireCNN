@@ -43,9 +43,9 @@ wheels/
 .DS_Store
 Thumbs.db
 
-# Datasets (too large for GitHub)
-data_bb/
-defi1certif-datasets-fire_small/
+# Datasets - uncomment if you want to exclude them (they're large!)
+# data_bb/
+# defi1certif-datasets-fire_small/
 *.tar
 *.tar.gz
 
